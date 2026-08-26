@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
-🏠 [Apply Key](https://global.rollinggo.store/) · 🚀 [Quick Start](#-quick-start) · 📚 [Examples](#-usage-examples) · 💬 [Support](#-support) · 🔍 [Q&A](#-qa) · ✈ [Powered by Dida](https://www.dida.com) · 💰[Earn with RollingGo](https://global.rollinggo.store/docs/partnerdoc/partner1)
+🏠 [Apply Key](https://global.rollinggo.store/) · 🚀 [Quick Start](#-quick-start) · 📚 [Examples](#-usage-examples) · 💬 [Support](#-support) · 🔍 [Q&A](#-qa)  · 💰[Earn with RollingGo](https://global.rollinggo.store/docs/partnerdoc/partner1)
 
 This is an official MCP server empowers AI Agents to search, compare, and book **over 2 Million hotels globally**. Powered by DIDA (14 years, world's #3 travel distribution platform), this server bridges the gap between AI travel recommendations and real-world bookings.
 
