@@ -20,19 +20,19 @@ This is an official MCP server empowers AI Agents to search, compare, and book *
 
 >  RollingGo MCP also offers an OAuth 2.0 Authorization Code flow, providing 7 tools including getHotelSearchTags, searchHotels, getHotelDetail, hotelPriceConfirm, searchHotelOrders, and more. This mode is designed for deep integration with enterprise-grade production applications and requires a business contact via contact@rollinggo.ai.
 
->  **For Chinese users** or workflows primarily targeting the mainland China market and Alipay payment systems, please refer to this version: [**Dida-hotel-MCP-CN**](https://github.com/DIDA-AI/Dida-hotel-MCP-CN)
+>  **For Chinese users** or workflows primarily targeting the mainland China market and Alipay payment systems, please refer to this version: [**RollingGo-hotel-MCP-CN**](https://github.com/DIDA-AI/Dida-hotel-MCP-CN)
 
 
 
 ---
 ## 🌟 Why DIDA Hotel MCP?
 
-Traditional AI agents can only recommend hotels based on static training datasets. The **DIDA Hotel MCP** equips your LLM agent with direct, real-time transactional capabilities:
+Traditional AI agents can only recommend hotels based on static training datasets. The **RollingGo Hotel MCP** equips your LLM agent with direct, real-time transactional capabilities:
 
 
 ✅ **Live Rates & Bookable Inventory** — Zero-latency price verification; every result is instantly bookable.
 
-✅ **Supply Chain** — The world's Top **3** travel B2B platform, **14** years in the making, fully API-native end-to-end.
+✅ **Supply Chain** — Fully API-native end-to-end.
 
 ✅ **Global Hotel Network** — **2,000,000**+ properties covering **200+**
 countries/regions. **500**+ suppliers covering every tier, from luxury chains to local boutiques.
