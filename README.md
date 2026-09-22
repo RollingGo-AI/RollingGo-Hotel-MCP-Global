@@ -20,7 +20,7 @@ This is an official MCP server empowers AI Agents to search, compare, and book *
 
 >  RollingGo MCP also offers an OAuth 2.0 Authorization Code flow, providing 7 tools including getHotelSearchTags, searchHotels, getHotelDetail, hotelPriceConfirm, searchHotelOrders, and more. This mode is designed for deep integration with enterprise-grade production applications and requires a business contact via contact@rollinggo.ai.
 
->  **For Chinese users** or workflows primarily targeting the mainland China market and Alipay payment systems, please refer to this version: [**RollingGo-hotel-MCP-CN**](https://github.com/DIDA-AI/Dida-hotel-MCP-CN)
+>  **For Chinese users** or workflows primarily targeting the mainland China market and Alipay payment systems, please refer to this version: [**RollingGo-hotel-MCP-CN**](https://github.com/RollingGo-AI/RollingGo-hotel-MCP-CN)
 
 
 
