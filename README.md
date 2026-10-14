@@ -25,7 +25,7 @@ This is an official MCP server empowers AI Agents to search, compare, and book *
 
 
 ---
-## 🌟 Why DIDA Hotel MCP?
+## 🌟 Why RollingGo Hotel MCP?
 
 Traditional AI agents can only recommend hotels based on static training datasets. The **RollingGo Hotel MCP** equips your LLM agent with direct, real-time transactional capabilities:
 
