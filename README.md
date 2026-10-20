@@ -611,7 +611,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 python server.py
 ```
-The local server will run on `http://localhost:8000/mcp`, automatically forwarding requests to the secure DIDA global API nodes.
+The local server will run on `http://localhost:8000/mcp`, automatically forwarding requests to the secure RollingGo global API nodes.
 
 ---
 ## 🔑 Security & Headers
