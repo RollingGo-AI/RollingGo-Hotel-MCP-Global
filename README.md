@@ -549,14 +549,14 @@ Search results show reference prices; real-time prices may vary. Currently, only
 
 
 ## 💬 Support
-* 📧 **Email**: [york.lu@dida.com](mailto:york.lu@dida.com)
+* 📧 **Email**: [contact@rollinggo.ai](contact@rollinggo.ai)
 * 🐛 **Issues**: Submit issues or feature requests on [GitHub Issues](https://github.com/DIDA-AI/dida_hotel_mcp_global/issues).
-* 💬 **Discord Community**: Join our [Discord Server](https://discord.gg/DvKcz7YnH) or scan the QR code below to connect with other developers, discuss integrations, and get real-time support from the DIDA team.
+* 💬 **Discord Community**: Join our [Discord Server](https://discord.gg/DvKcz7YnH) or scan the QR code below to connect with other developers, discuss integrations, and get real-time support from the RollingGo team.
 
 
 <img src="discord-qr.png" width="300" alt="Discord Support" />
 
-## 🌟 Dida Hotel MCP (OAuth) v2.3 Major Update
+## 🌟 RollingGo Hotel MCP (OAuth) v2.3 Major Update
 v2.3 optimizes the order query structure and adds multiple order detail fields to help Agents better handle check-in, payment, and cancellation scenarios. Note: This update applies to the OAuth integration version only, not the API Key version documented herein. The OAuth version requires business onboarding contact@rollinggo.ai.
 <details>
 <summary><b>What changed</b></summary>
