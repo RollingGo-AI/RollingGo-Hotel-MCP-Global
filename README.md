@@ -72,7 +72,7 @@ Integrate global hotel search and booking into your AI assistant in under **5 mi
 
 ### Step 1: Get Your Developer API Key
 
-1. Go to the [DIDA Partner Center](https://global.rollinggo.store/apply) and sign up for a free key.
+1. Go to the [Partner Center](https://global.rollinggo.store/apply) and sign up for a free key.
 2. You will receive an email containing: Credentials for your B2B Partner Center dashboard (to monitor orders, configure markup, and track earnings).
 
 ---
@@ -88,7 +88,7 @@ Create `.mcp.json` in your project root:
 ```json
 {
   "mcpServers": {
-    "Dida-Hotel": {
+    "Rollinggo-Hotel": {
       "url": "https://mcp.rollinggo.ai/mcp",
       "type": "http",
       "headers": {
@@ -116,7 +116,7 @@ Config file location: `.codex/config.json` in the project root, or globally at `
 ```json
 {
   "mcpServers": {
-    "Dida-Hotel": {
+    "Rollinggo-Hotel": {
       "url": "https://mcp.rollinggo.ai/mcp",
       "type": "streamable-http",
       "headers": {
@@ -134,7 +134,7 @@ Config file location: `.cursor/mcp.json` in the project root, or globally at `~/
 ```json
 {
   "mcpServers": {
-    "Dida-Hotel": {
+    "Rollinggo-Hotel": {
       "url": "https://mcp.rollinggo.ai/mcp",
       "type": "streamable-http",
       "headers": {
@@ -255,7 +255,7 @@ The AI will automatically call the `searchHotels` Tool and return a list of hote
 ```
 
 ## 🔧 Available Tools
-[Official Docs | Dida MCP Tools](https://global.rollinggo.store/docs/mcp-docs/mcp-tool-reference)
+[Official Docs | RollingGo MCP Tools](https://global.rollinggo.store/docs/mcp-docs/mcp-tool-reference)
 
 The server registers 3 core tools to handle the complete search-to-book lifecycle:
 
@@ -627,4 +627,4 @@ The local server will run on `http://localhost:8000/mcp`, automatically forwardi
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-**Made with ❤️ by the DIDA Team**
+**Made with ❤️ by the RollingGo Team**
